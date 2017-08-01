@@ -1,3 +1,5 @@
+package wang.sortAlog.com;
+
 public class BubbleSort {
 	public static int[] bubbleSort(int[] A,int n){
 		int temp=0;
