@@ -1,3 +1,7 @@
+/*
+ * 冒泡排序：相邻的两个比较大小，时间复杂度是o(n^2),空间复杂度是O(1)
+ * 双重循环时间复杂度
+ */
 package wang.sortAlog.com;
 
 public class BubbleSort {
